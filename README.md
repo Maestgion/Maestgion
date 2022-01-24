@@ -1,4 +1,4 @@
-[![MasterHead](https://sorkarseagle.files.wordpress.com/2020/11/k-4.gif)] 
+![MasterHead](https://sorkarseagle.files.wordpress.com/2020/11/k-4.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
 <h3 align="center">A Frontend Developer and Blockchain enthusiast</h3>
 <img align="right" alt="dev" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
